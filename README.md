@@ -1,4 +1,4 @@
-# Cruz Password Manager
+# Password Manager
 
 A simple command-line password manager written in Rust.  
 It allows you to:
