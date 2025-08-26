@@ -36,8 +36,8 @@ It allows you to:
 
 ### Clone and Build
 ```bash
-git clone https://github.com/yourusername/cruz-password-manager.git
-cd cruz-password-manager
+git clone https://github.com/yourusername/password-manager.git
+cd password-manager
 cargo build --release
 ```
 
