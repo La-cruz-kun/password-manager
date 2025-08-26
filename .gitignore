@@ -1,2 +1,5 @@
 /target
-database.db
+src/test.py
+src/temp.rs
+*.db
+
