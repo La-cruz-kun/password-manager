@@ -38,7 +38,7 @@ It allows you to:
 ```bash
 git clone https://github.com/yourusername/cruz-password-manager.git
 cd cruz-password-manager
-cargo build --release
+cargo build --release```
 
 ### Run
 ```bash
