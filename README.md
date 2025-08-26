@@ -38,11 +38,13 @@ It allows you to:
 ```bash
 git clone https://github.com/yourusername/cruz-password-manager.git
 cd cruz-password-manager
-cargo build --release```
+cargo build --release
+```
 
 ### Run
 ```bash
-cargo run```
+cargo run
+```
 
 ## Usage Example
 
@@ -52,7 +54,8 @@ press 1 to create an account
 press 2 to login to an account
 press q to quit
 If you choose `1`, you’ll be prompted to create a username and password.  
-If you choose `2`, you’ll log in and can start storing credentials.  ```
+If you choose `2`, you’ll log in and can start storing credentials. 
+```
 
 ## File Structure
 
